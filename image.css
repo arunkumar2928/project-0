@@ -1,0 +1,35 @@
+.border{
+    height: 200px;
+    width: 700px;
+    border: 5px solid black;
+    border-radius: 10%;
+    display:-webkit-flex;
+   justify-content: space-evenly;
+    margin: auto;
+    padding-left: 20px;
+    padding-top: 6px;
+    padding-bottom: 0;
+    padding-right: 0px;
+    font-color: #F90716;
+
+}
+.font{
+    font-color: white;
+}
+img:hover{
+    border: 3px solid white;
+}
+h3
+{
+    margin-left: 0px;
+}
+#para
+{
+    margin: auto;
+    margin-top: 50px;
+}
+p{
+    background-color: black;
+    color: aqua;
+    margin: auto;
+}
